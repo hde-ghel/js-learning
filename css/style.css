@@ -1,0 +1,21 @@
+/* commentaire */
+body
+{
+    /* <propriete> : <valeur>*/
+    background-color: #DDD;
+    margin: auto;
+    width: 1000px;
+}
+p{color: blue;}
+
+div#bloc
+{
+    background-color: rgb(144, 160, 152);
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+}
+p span.text-red
+{
+    color: red;
+}
